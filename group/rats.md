@@ -12,4 +12,6 @@ Drafts can be reached via the [tracker](https://datatracker.ietf.org/wg/rats/doc
 
 * [Evidence Carrying Protocols/APIs](rats/evidence)
 * [Attestation Results Carrying Protocols/APIs](rats/attestationresults)
+* [Protocols/APIs for conveying Reference Values](rats/referencevalues)
+* [Protocols/APIs for conveying Appraisal Policies](rats/appraisalpolicies)
 
