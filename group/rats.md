@@ -10,8 +10,8 @@ Meeting materials (agendas, slides, minutes) can be reached via the [normal IETF
 
 Drafts can be reached via the [tracker](https://datatracker.ietf.org/wg/rats/documents/).
 
-* [Evidence Carrying Protocols/APIs](rats/evidence)
-* [Attestation Results Carrying Protocols/APIs](rats/attestationresults)
-* [Protocols/APIs for conveying Reference Values](rats/referencevalues)
-* [Protocols/APIs for conveying Appraisal Policies](rats/appraisalpolicies)
+* [Evidence Carrying Protocols/APIs](/group/rats/evidence)
+* [Attestation Results Carrying Protocols/APIs](/group/rats/attestationresults)
+* [Protocols/APIs for conveying Reference Values](/group/rats/referencevalues)
+* [Protocols/APIs for conveying Appraisal Policies](/group/rats/appraisalpolicies)
 
