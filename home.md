@@ -25,6 +25,7 @@ This wiki should not be used for content that should be on any of the other dedi
 * Information about the AUTH48 process.
 
 This wiki complements the [IETF Notes service](https://notes.ietf.org), which is intended as a best-efforts service for ephemeral note and document creations.
+This wiki is built with wiki.js, and implements the [https://spec.commonmark.org/0.31.2/](CommonMark specification) and adds some useful extensions (including the Github Flavored Markdown addons).  [https://docs.requarks.io/editors/markdown](The extensive details)
 
 # Groups
 
